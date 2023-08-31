@@ -1,0 +1,33 @@
+.profile{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+.title{
+    font-size: 40px;
+    font-family: gulim;
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    border-bottom: 7px solid gray;
+    margin: 0px;
+    padding: 20px;
+}
+ol{
+    border-right: 3px solid gray;
+    margin: 0px;
+
+}
+.ex{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+
+}
